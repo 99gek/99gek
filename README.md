@@ -1,5 +1,5 @@
 <h2>Hi there 👋</h2>
-<h4>I'm George Ezzat<br>A passionate Web Developer with a decent experience in Graphic Design,<br>
+<h4>My name is George Ezzat<br>A passionate Web Developer with a decent experience in Graphic Design,<br>
   Logo design and UI Design from Egypt.</h4>  
 
 
