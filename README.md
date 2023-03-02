@@ -1,6 +1,6 @@
 <h2>Hi there 👋</h2>
-<h4>My name is George Ezzat<br>A passionate Web Developer with a decent experience in Graphic Design,<br>
-  Logo design and UI Design from Egypt.</h4>  
+<h3>My name is George Ezzat<br>A passionate Web Developer with a decent experience in Graphic Design,<br>
+  Logo design and UI Design from Egypt.</h3>  
 
 
 - 🌱 currently learning **React.js**  
