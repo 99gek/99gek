@@ -1,5 +1,5 @@
 <h2>Hi there 👋</h2>
-<img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://media.licdn.com/dms/image/C5112AQFm6aUIMtkQXw/article-inline_image-shrink_1000_1488/0/1586786516190?e=1683158400&v=beta&t=Jode7hcLIE-8ur7nm0X0ZZRm8Whfwo_XzeHbo-Ms9BA)" width="200" height="40" />
+<img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif]" width="40" height="40" />
 <h3>My name is George Ezzat<br>A passionate Web Developer with a decent experience in Graphic Design,<br>
   Logo design and UI Design from Egypt.</h3>  
 
