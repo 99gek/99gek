@@ -1,4 +1,5 @@
 <h2>Hi there 👋</h2>
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 <h3>My name is George Ezzat<br>A passionate Web Developer with a decent experience in Graphic Design,<br>
   Logo design and UI Design from Egypt.</h3>  
 
