@@ -1,6 +1,6 @@
 <h2>Hi there 👋</h2>
 <img src="https://media.licdn.com/dms/image/C5112AQFm6aUIMtkQXw/article-inline_image-shrink_1000_1488/0/1586786516190?e=1683158400&v=beta&t=Jode7hcLIE-8ur7nm0X0ZZRm8Whfwo_XzeHbo-Ms9BA" />
-<h3>My name is George Ezzat - <br>I'm a passionate Web Developer with a decent experience in Graphic Design,<br>
+<h3>My name is George Ezzat<br>I'm a passionate Web Developer with a decent experience in Graphic Design,<br>
   Logo design and UI Design from Egypt.</h3>  
 
 
