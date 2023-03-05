@@ -1,6 +1,6 @@
 <img src="https://media.licdn.com/dms/image/C5112AQFm6aUIMtkQXw/article-inline_image-shrink_1000_1488/0/1586786516190?e=1683158400&v=beta&t=Jode7hcLIE-8ur7nm0X0ZZRm8Whfwo_XzeHbo-Ms9BA" />
 <h2>Welcome to my profile!</h2>
-<h3>I'm a passionate Front-End Developer with a decent experience in Graphic Design,<br>
+<h3>I'm a passionate Front-End Developer with a decent experience in Graphic Design,
   Logo design and UI Design from Egypt.</h3>  
 
 
