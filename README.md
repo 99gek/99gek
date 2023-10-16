@@ -17,4 +17,4 @@ Passionate Front-End Developer with a decent experience in Graphic Design and Br
 
 
 
-<p style="text-align: center;"> A brief description of what this project does and who it's for </p>
+<p style="text-align: center;">Sample text with center alignment</p>
