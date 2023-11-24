@@ -10,7 +10,7 @@ Passionate Front-End Developer with a decent experience in Graphic Design and Br
 
 # 📖 Currently Learning:
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-](#)    [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)](#)
+](#)    [![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)](#)
 
 # 🌐 Available At:
 [![Outlook](https://img.shields.io/badge/Outlook-%230078D4.svg?logo=MicrosoftOutlook&logoColor=white)](mailto:gek.99@hotmail.com) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/999gek) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/99gek) 
