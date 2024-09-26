@@ -1,7 +1,7 @@
 
 # 💫 About Me:
-Freelance Junior Front-End Web Developer. Ex-Freelance Graphic Designer and Illustrator. Experienced in Linux and UNIX-based Systems.
-Jack of lots of trades, Fortunately master of some.
+Freelance Front-End Web Developer. Ex-Freelance Graphic Designer and Illustrator. Experienced in Linux and UNIX-based Systems.
+Jack of all trades, Fortunately master of some.
 
 
 ## 💻 Tech Stack:
