@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Freelance Front-End Web Developer. Ex-Freelance Graphic Designer and Illustrator. Linux and UNIX-based Systems Expert.
+Front-End Web Developer. ex Freelance Graphic Designer and Illustrator.
 <br> Jack of all trades, Fortunately master of some.
 
 
